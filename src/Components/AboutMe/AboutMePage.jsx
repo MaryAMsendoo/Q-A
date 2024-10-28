@@ -19,7 +19,7 @@ import '../AboutMe/style.css'
   return (
     <div className="container">
       <div className="sub_container">
-      <h1>RANDON QUESTIONS PEOPLE USUALLY ASK.</h1>
+      <h3>RANDON QUESTIONS PEOPLE USUALLY ASK.</h3>
         {/* to validate array */}
         {Data && Data.length > 0 ? (
             // passing a parameter hold a data  values
