@@ -54,6 +54,6 @@ span{
 
 @media (max-width: 520px) {
     .container h1:nth-child(1){
-        font-size: 1rem;
+        font-size: .7rem;
     }
 }
